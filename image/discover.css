@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.discover-nav{
+   display: flex;
+   justify-content: space-around;
+}
+.discover-nav1{
+    width: 10rem;
+    color: white;
+} 
+.discover-nav2{
+    width: 630px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    font-size: 17px;
+}
+.discover-nav2 a{
+    text-decoration: none;
+    color: white;
+}
+.discover-nav2:hover{
+    text-decoration: underline;
+    color: white;
+}
+.discover-nav3{
+    margin-top: 15px;
+    margin-right: 3rem;
+
+}
+.discover-button{
+    padding: 9px;
+    font-size: 12px;
+    border-radius: 25px;
+    font-weight:bold;
+    background-color: white;
+    border: none;
+}
+.discover-button:hover{
+    color: rgb(0, 140, 255);
+}
+.discover-discord{
+    float: right;
+    font-size: 20px;
+    margin-top: 15px;
+}
+#discover-logo{
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.discover-main{
+    background-color: rgb(0, 98, 255);
+    height: 20rem;
+}
+.discover-imagine{
+    text-align: center;
+    margin-top: 5rem;
+    
+}
+.discoverh1{
+    color: white;
+    font-weight: bold;
+}
+.discoverpara{
+    color: white;
+    font-size: 1rem;
+    margin-top: 0.3rem;
+}
+.Explore{
+    width: 45rem;
+    margin-left: 14rem;
+    margin-top: 3rem;
+    padding: 0.2rem;
+    background-color: rgb(203, 199, 199);
+    border: 0.7rem solid rgb(236, 228, 228); 
+    border-radius: 5px;
+    
+}
+#placeholder {
+    background-color: rgb(203, 199, 199);
+    border: 0; 
+    width: 43rem;
+    outline: none; 
+}
+
+#placeholder:focus {
+    outline: none; 
+}
+
+.Explore:hover {
+    outline: 2px solid blue;
+}
+
+#discover-maginefying{
+    background-color: rgb(0, 106, 255);
+    padding: 0.8rem;
+    border-radius: 0.2rem;
+    position: relative;
+    left: 60rem;
+    bottom: 2.8rem;
+}
+#discover-maginefying:hover{
+    background-color: blue;
+}
+
+.discover-list{
+    background-color: rgb(203, 202, 202);
+    border-radius: 3px;
+}
+
+.discover-list1,.discover-list{
+    display: flex;
+    margin-left: 15rem;
+    /* justify-content: space-between; */
+    padding: 1rem;
+    width: 15rem;
+    text-align: justify;
+
+}
+/* .discover-list-head{
+    width: 30rem;
+   
+} */
+
+.num{
+    margin-left: 5rem;
+}
+
+

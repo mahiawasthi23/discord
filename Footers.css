@@ -1,0 +1,83 @@
+.Footer-contenir{
+    background-color: black;
+    width: 80rem;
+}
+.list{
+    position: relative;
+    left: 20rem; 
+    width: 50rem;
+ }
+
+.Footer-main{
+    display: inline-block;
+    position: relative;
+    left: 5rem;
+    top: 2rem;
+}
+.Footer-logo{
+    position: relative;
+    right: 3rem;
+    top: 5rem;
+    display: inline-flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    width: 12rem;
+}
+.head-itam{
+    display: inline-flex; 
+     justify-content: space-around;
+    justify-content: space-between; 
+    
+}
+.Footer-foot{
+    width: 65rem;
+    border-top: 1px dotted blue;
+    justify-content: space-around;
+    margin-left: 5rem;
+}
+h3{
+    display: inline-block;
+    color: white;
+}
+button{
+    float: right;
+    margin-top: 1rem;
+    border-radius: 2rem;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+    background-color: blue;
+    color: white;
+}
+i,li{
+    color: white;
+}
+ul,li{
+    list-style-type: none;
+}
+.Footer-section{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.head-list{
+    color: blue;
+    display: flex; 
+    justify-content: space-between;
+    justify-content: space-around;
+    
+ }
+ img{
+    width: 2rem;
+    height: 1rem;
+ }
+ li:hover{
+    text-decoration: underline;
+ }
+ .c{
+    margin-left: 3rem;
+ }
+ .p{
+    margin-right: 6.8rem;
+ }
+ 
